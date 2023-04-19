@@ -10,7 +10,7 @@ function Facilities() {
           </div>
           <br/>
           <div>
-          {/* <img className="card-img-top portrait" src={image} alt="me" /> */}
+          {/* <img className="card-img-top" src={image} alt="describe the image" /> */}
           </div>
           <br/>
           <div>
