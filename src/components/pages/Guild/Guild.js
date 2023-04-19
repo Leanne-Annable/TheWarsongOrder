@@ -57,6 +57,7 @@ function Guild() {
           </div>
           <br/>
           <div>
+            <br/>
             <h3>The Shadow Sect (The Silent Quarter)</h3>
             <p className="shadowSectInfo">
               <br/>
@@ -85,6 +86,7 @@ function Guild() {
             </p>
           </div>
           <div>
+            <br/>
             <h3>The Hunt (The Green Quarter)</h3>
             <p className="huntInfo">
               <br/>
@@ -113,6 +115,7 @@ function Guild() {
             </p>
           </div>
           <div>
+            <br/>
             <h3>The Arcana Academy</h3>
             <p className="arcanaAcademyInfo">
               <br/>
