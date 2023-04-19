@@ -26,13 +26,11 @@ function Home() {
             <br/>
             Though starting off small, our initial operations were such a resounding success that various monarchies <br/>
             and governing bodies across the globe began to solicit our services regularly, leading to the grand and powerful <br/>
-            institution that the Order is today. We now enjoy a vast amount of global influence, <br/>
-            but strongly disavow any political or moral alignment other than those held by each individual member. <br/>
+            institution that the Order is today.<br/>
             <br/>
             Our grand centre of operations resides on the continent of Tal’Dorei, in the city of Emon. <br/>
-            The main hall extends into four separate forks collected in groups of three, named after the four cardinal directions. <br/>
-            The North, East, South and West Forks all cater to different needs and house varying facilities. <br/>
-            These forks are better know as The Barracks, The Shadow Sect, The Hunt, and The Arcana Academy respectively. 
+            The main hall extends into four separate forks, each caters to different needs and house varying facilities. <br/>
+            These forks are better know as The Barracks, The Shadow Sect, The Hunt, and The Arcana Academy. 
             {/* maybe make the last line sections clickable? */}
           </p>
           </div>
